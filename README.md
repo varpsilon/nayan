@@ -101,20 +101,6 @@ python scripts/sample.py --guidance 1.5 --checkpoint checkpoints/final.pt
 
 ---
 
-## 🔬 git history (cool huh?)
-
-```
-c953f79 readme update with full structure
-d398b6b air config for hot reload
-337a8d1 dockerfile for container builds
-... (17 more commits)
-1a0f878 init repo skeleton
-```
-
-*all lowercase, deadpan, chilled commits. every milestone matters.*
-
----
-
 ## ⚙️ config
 
 `toy/base.yaml`:
