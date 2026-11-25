@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.py.dSYM
+.DS_Store
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+.env
+.ipynb_checkpoints/
+*.lit
+data/
+checkpoints/
+outputs/
+results/
+ .tmp/
+ .cache/
