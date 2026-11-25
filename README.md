@@ -11,10 +11,6 @@
 
 </div>
 
----
-
-<img src="docs/architecture.png" alt="architecture" width="500" style="display:block; margin:auto;">
-
 ## quickstart
 
 ```bash
